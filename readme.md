@@ -29,7 +29,7 @@ Use [Vanadium](https://github.com/GrapheneOS/Vanadium) (if posible) or [Bromite]
 
 ## Social Media
 
-Don't even think of that
+![s1](https://raw.githubusercontent.com/yperta/Android-security-guide/main/main/dont.jpg)
 
 
 ## VPN
