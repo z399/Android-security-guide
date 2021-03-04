@@ -3,7 +3,7 @@
 - [Introduction](#introduction)
 - [Operating System](#operating-system)
 - [Browser](#browser)
-- [Social Networks](#social-networks)
+- [Social Media](#social-media)
 - [VPN](#vpn)
 - [Messenger](#messenger)
 - [Email](#email)
@@ -25,9 +25,9 @@ Use [GrapheneOS](https://grapheneos.org/) or stock operating system on a google 
 
 Use [Vanadium](https://github.com/GrapheneOS/Vanadium) (if posible) or [Bromite](https://www.bromite.org/)
 
-warning: These projects don't priorities on anti-fingerprinting nor anonimity, Use the [Tor browser](https://www.torproject.org/) instead
+**Warning: These projects don't priorities on anti-fingerprinting nor anonimity, Use the [Tor browser](https://www.torproject.org/) instead**
 
-## Social Networks
+## Social Media
 
 Don't even think of that
 
@@ -45,7 +45,7 @@ Don't even think of that
 
 [ProtonMail](https://protonmail.com/) and [Tutanota](https://tutanota.com/) are providers with a strong focus on security 
 
-**Warning: Email itself is a legacy technology and there is no private or secure email, Don't go anywhere near email at all if any remotely sophisticated adversary is involved. **
+**Warning: Email itself is a legacy technology and there is no private or secure email, Don't go anywhere near email at all if any remotely sophisticated adversary is involved.**
 
 ## Passwords
 
