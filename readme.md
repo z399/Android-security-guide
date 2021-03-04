@@ -25,7 +25,7 @@ Use [GrapheneOS](https://grapheneos.org/) or stock operating system on a google 
 
 Use [Vanadium](https://github.com/GrapheneOS/Vanadium) (if posible) or [Bromite](https://www.bromite.org/)
 
-**Warning: These projects don't priorities on anti-fingerprinting nor anonimity, Use the [Tor browser](https://www.torproject.org/) instead**
+**Warning: These projects don't priorities on anti-fingerprinting nor anonimity, if that is your top priority use the [Tor browser](https://www.torproject.org/) instead**
 
 ## Social Media
 
